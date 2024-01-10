@@ -1,0 +1,24 @@
+PESEL: 123
+Imiê: gsfd
+Nazwisko: sgfdh
+Adres: wqrfe
+Nr telefonu: 241
+
+PESEL: 1135
+Imiê: erw
+Nazwisko: dsgf
+Adres: 2134fds
+Nr telefonu: 214241
+
+PESEL: 135
+Imiê: gffg
+Nazwisko: hfed
+Adres: 14
+Nr telefonu: 3154
+
+PESEL: 4256
+Imiê: hgubert
+Nazwisko: malak\
+Adres: adgdga
+Nr telefonu: 2145132
+
